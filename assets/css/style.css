@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
 @import 'header.css';
 *{
     margin: 0;
@@ -5,6 +6,7 @@
     border: 0;
     font-size: 100%;
     font: inherit;
+    font-family: "DotGothic16", sans-serif;
     vertical-align: baseline;
 
 }
