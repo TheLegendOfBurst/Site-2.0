@@ -16,6 +16,13 @@
     font-family: "Source Code Pro", monospace;
     font-weight: 300;
 }
+
+body
+{
+    background-image: url(../images/bolha-background.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
 .container
 {
     width: 1024px;
