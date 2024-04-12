@@ -8,12 +8,12 @@
     display: block;
     margin: 5px 1px;
     text-decoration: none;
-    color: #fff;
-    background-color: #ffb36b; /* Laranja */
-    transition: background-color 0.3s;
+    color: #ff0000;
+    background-color: #ffffff; /* Laranja */
+    transition: background-color 1.0s;
     border-radius: 15px; /* Arredonda as bordas */
 }
 .btn.btn-laranja:hover {
-    background-color: #ff6347; /* Laranja mais escuro */
+    background-color: #000000; /* Laranja mais escuro */
     
 }
