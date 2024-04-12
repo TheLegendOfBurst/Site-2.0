@@ -4,6 +4,7 @@
 @import 'header.css';
 @import 'buttons.css';
 @import 'main.css';
+@import 'footer.css';
 /*Reset css */
 *{
     margin: 0;
@@ -15,6 +16,7 @@
     text-decoration: none;
     font-family: "Source Code Pro", monospace;
     font-weight: 300;
+    list-style: none;
 }
 
 body
