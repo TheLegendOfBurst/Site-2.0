@@ -20,6 +20,10 @@
 
 @media(max-width: 915px)
 {
+    body {
+        background-position: left -200px;
+        
+    }
     .container
     {
         width: 600px;
@@ -27,5 +31,33 @@
     .row
     {
         flex-direction: column;
+    }
+    header nav {
+        margin: 30px 0;
+    }
+    
+    .sobre-web-design article {
+        width: 100%;
+    }
+    .sobre-web-design figcaption igm {
+        width: 100%;
+        margin: 30px 0;
+    }
+
+    footer .row {
+        flex-direction: row;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 665px) {
+    .container {
+        width: 400px;
+    }
+}
+
+@media (max-width: 450px) {
+    .container {
+        width: 300px;
     }
 }
